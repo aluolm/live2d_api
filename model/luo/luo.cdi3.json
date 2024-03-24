@@ -1,0 +1,546 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "Param8",
+			"GroupId": "ParamGroup8",
+			"Name": "sx1"
+		},
+		{
+			"Id": "Param9",
+			"GroupId": "ParamGroup8",
+			"Name": "sx2"
+		},
+		{
+			"Id": "Param10",
+			"GroupId": "ParamGroup8",
+			"Name": "sy1"
+		},
+		{
+			"Id": "Param11",
+			"GroupId": "ParamGroup8",
+			"Name": "sy2"
+		},
+		{
+			"Id": "Param12",
+			"GroupId": "ParamGroup8",
+			"Name": "mx1"
+		},
+		{
+			"Id": "Param13",
+			"GroupId": "ParamGroup8",
+			"Name": "mx2"
+		},
+		{
+			"Id": "Param14",
+			"GroupId": "ParamGroup8",
+			"Name": "my1"
+		},
+		{
+			"Id": "Param15",
+			"GroupId": "ParamGroup8",
+			"Name": "my2"
+		},
+		{
+			"Id": "Param16",
+			"GroupId": "ParamGroup8",
+			"Name": "lx1"
+		},
+		{
+			"Id": "Param17",
+			"GroupId": "ParamGroup8",
+			"Name": "lx2"
+		},
+		{
+			"Id": "Param18",
+			"GroupId": "ParamGroup8",
+			"Name": "ly1"
+		},
+		{
+			"Id": "Param19",
+			"GroupId": "ParamGroup8",
+			"Name": "ly2"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "ParamGroup",
+			"Name": "wink"
+		},
+		{
+			"Id": "Param2",
+			"GroupId": "ParamGroup",
+			"Name": "angry"
+		},
+		{
+			"Id": "Param3",
+			"GroupId": "ParamGroup",
+			"Name": "haqian"
+		},
+		{
+			"Id": "Param4",
+			"GroupId": "ParamGroup",
+			"Name": "zhengtou"
+		},
+		{
+			"Id": "Param7",
+			"GroupId": "ParamGroup",
+			"Name": "coat"
+		},
+		{
+			"Id": "Param5",
+			"GroupId": "ParamGroup",
+			"Name": "gd1"
+		},
+		{
+			"Id": "Param6",
+			"GroupId": "ParamGroup",
+			"Name": "gd2"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左眼　开闭"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左眼　微笑"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右眼"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右眼　微笑"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "眼珠 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "眼珠 Y"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "嘴　变形"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "嘴　张开和闭合"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "左眉上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "脸颊泛红"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "身体旋转　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "身体旋转　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "身体旋转　Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "摇动 前发"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "摇动 侧发"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "摇动 后发"
+		},
+		{
+			"Id": "Param_Angle_Rotation2",
+			"GroupId": "ParamGroup2",
+			"Name": "[0]左手"
+		},
+		{
+			"Id": "Param_Angle_Rotation3",
+			"GroupId": "ParamGroup2",
+			"Name": "[1]左手"
+		},
+		{
+			"Id": "Param_Angle_Rotation4",
+			"GroupId": "ParamGroup2",
+			"Name": "[2]左手"
+		},
+		{
+			"Id": "Param_Angle_Rotation5",
+			"GroupId": "ParamGroup2",
+			"Name": "[3]左手"
+		},
+		{
+			"Id": "Param_Angle_Rotation6",
+			"GroupId": "ParamGroup3",
+			"Name": "[0]右手"
+		},
+		{
+			"Id": "Param_Angle_Rotation7",
+			"GroupId": "ParamGroup3",
+			"Name": "[1]右手"
+		},
+		{
+			"Id": "Param_Angle_Rotation8",
+			"GroupId": "ParamGroup3",
+			"Name": "[2]右手"
+		},
+		{
+			"Id": "Param_Angle_Rotation9",
+			"GroupId": "ParamGroup3",
+			"Name": "[3]右手"
+		},
+		{
+			"Id": "Param_Angle_Rotation11",
+			"GroupId": "ParamGroup4",
+			"Name": "[0]打哈欠小"
+		},
+		{
+			"Id": "Param_Angle_Rotation12",
+			"GroupId": "ParamGroup4",
+			"Name": "[1]打哈欠小"
+		},
+		{
+			"Id": "Param_Angle_Rotation13",
+			"GroupId": "ParamGroup4",
+			"Name": "[2]打哈欠小"
+		},
+		{
+			"Id": "Param_Angle_Rotation14",
+			"GroupId": "ParamGroup4",
+			"Name": "[3]打哈欠小"
+		},
+		{
+			"Id": "Param_Angle_Rotation10",
+			"GroupId": "ParamGroup5",
+			"Name": "[0]打哈欠大"
+		},
+		{
+			"Id": "Param_Angle_Rotation16",
+			"GroupId": "ParamGroup6",
+			"Name": "[0]抱枕头小"
+		},
+		{
+			"Id": "Param_Angle_Rotation17",
+			"GroupId": "ParamGroup6",
+			"Name": "[1]抱枕头小"
+		},
+		{
+			"Id": "Param_Angle_Rotation15",
+			"GroupId": "ParamGroup7",
+			"Name": "[0]抱枕头大"
+		},
+		{
+			"Id": "Param_Angle_Rotation19",
+			"GroupId": "ParamGroup9",
+			"Name": "[0]蝴蝶结"
+		},
+		{
+			"Id": "Param_Angle_Rotation20",
+			"GroupId": "ParamGroup9",
+			"Name": "[1]蝴蝶结"
+		},
+		{
+			"Id": "Param_Angle_Rotation21",
+			"GroupId": "ParamGroup9",
+			"Name": "[2]蝴蝶结"
+		},
+		{
+			"Id": "Param_Angle_Rotation22",
+			"GroupId": "ParamGroup9",
+			"Name": "[3]蝴蝶结"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup8",
+			"GroupId": "",
+			"Name": "wl"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "button"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "左手"
+		},
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "右手"
+		},
+		{
+			"Id": "ParamGroup4",
+			"GroupId": "",
+			"Name": "打哈欠小"
+		},
+		{
+			"Id": "ParamGroup5",
+			"GroupId": "",
+			"Name": "打哈欠大"
+		},
+		{
+			"Id": "ParamGroup6",
+			"GroupId": "",
+			"Name": "抱枕头小"
+		},
+		{
+			"Id": "ParamGroup7",
+			"GroupId": "",
+			"Name": "抱枕头大"
+		},
+		{
+			"Id": "ParamGroup9",
+			"GroupId": "",
+			"Name": "蝴蝶结"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "文件夹17"
+		},
+		{
+			"Id": "Part2",
+			"Name": "wink表情"
+		},
+		{
+			"Id": "Part3",
+			"Name": "生气表情"
+		},
+		{
+			"Id": "Part4",
+			"Name": "打哈欠表情"
+		},
+		{
+			"Id": "Part11",
+			"Name": "外套"
+		},
+		{
+			"Id": "Part13",
+			"Name": "动作1打哈欠手"
+		},
+		{
+			"Id": "Part5",
+			"Name": "嘴"
+		},
+		{
+			"Id": "Part6",
+			"Name": "眼睛"
+		},
+		{
+			"Id": "Part10",
+			"Name": "发"
+		},
+		{
+			"Id": "Part12",
+			"Name": "动作2抱枕头"
+		},
+		{
+			"Id": "Part15",
+			"Name": "脸"
+		},
+		{
+			"Id": "Part14",
+			"Name": "白色领子"
+		},
+		{
+			"Id": "Part18",
+			"Name": "裙子"
+		},
+		{
+			"Id": "Part19",
+			"Name": "动作2抱枕头大臂"
+		},
+		{
+			"Id": "Part20",
+			"Name": "动作1打哈欠袖子"
+		},
+		{
+			"Id": "Part21",
+			"Name": "手"
+		},
+		{
+			"Id": "Part24",
+			"Name": "腿"
+		},
+		{
+			"Id": "Part25",
+			"Name": "后发"
+		},
+		{
+			"Id": "Part26",
+			"Name": "连衣裙后"
+		},
+		{
+			"Id": "Part27",
+			"Name": "外套后"
+		},
+		{
+			"Id": "ArtMesh40_Skinning",
+			"Name": "右手外套(蒙皮)"
+		},
+		{
+			"Id": "ArtMesh45_Skinning",
+			"Name": "手(蒙皮)"
+		},
+		{
+			"Id": "Part7",
+			"Name": "眉毛"
+		},
+		{
+			"Id": "Part8",
+			"Name": "右眼"
+		},
+		{
+			"Id": "Part9",
+			"Name": "左眼"
+		},
+		{
+			"Id": "ArtMesh43_Skinning",
+			"Name": "手(蒙皮)"
+		},
+		{
+			"Id": "ArtMesh44_Skinning",
+			"Name": "枕头(蒙皮)"
+		},
+		{
+			"Id": "Part16",
+			"Name": "脸"
+		},
+		{
+			"Id": "ArtMesh59_Skinning",
+			"Name": "蓝色蝴蝶结(蒙皮)"
+		},
+		{
+			"Id": "Part17",
+			"Name": "脖子"
+		},
+		{
+			"Id": "Part22",
+			"Name": "袖子"
+		},
+		{
+			"Id": "Part23",
+			"Name": "手臂"
+		},
+		{
+			"Id": "ArtMesh41_Skinning",
+			"Name": "左手外套(蒙皮)"
+		},
+		{
+			"Id": "L2_Skinning",
+			"Name": "L(蒙皮)"
+		},
+		{
+			"Id": "L3_Skinning",
+			"Name": "L(蒙皮)"
+		},
+		{
+			"Id": "Part28",
+			"Name": "右眼"
+		},
+		{
+			"Id": "R2_Skinning",
+			"Name": "R(蒙皮)"
+		},
+		{
+			"Id": "R3_Skinning",
+			"Name": "R(蒙皮)"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		]
+	]
+}
